@@ -272,6 +272,3 @@ PaperMate 的核心目标是让科研阅读流程变得更清晰、更可复用�
 - 完善词汇复习机制
 - 增加更多可导出的阅读模板
 
-## License
-
-This project is released for personal learning, research workflow exploration, and non-commercial use. You may modify it according to your own reading and research needs.
