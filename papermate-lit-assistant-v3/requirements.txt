@@ -1,6 +1,0 @@
-streamlit>=1.32.0
-pandas>=2.0.0
-requests>=2.31.0
-feedparser>=6.0.10
-plotly>=5.18.0
-deep-translator>=1.11.4
